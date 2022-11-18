@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseManager-master.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseManager-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseManager_My.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseManager_My.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpenseManager_My.app.unitTest.iml" />
     </modules>
   </component>
 </project>

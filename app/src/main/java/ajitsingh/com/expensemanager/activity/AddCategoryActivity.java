@@ -16,7 +16,7 @@ import static ajitsingh.com.expensemanager.activity.MainActivity.ADD_NEW_CAT;
 
 
 public class AddCategoryActivity extends FragmentActivity implements AddCategoryView {
-//.....
+
   @Override
   protected void onCreate(Bundle savedInstanceState){
     super.onCreate(savedInstanceState);
