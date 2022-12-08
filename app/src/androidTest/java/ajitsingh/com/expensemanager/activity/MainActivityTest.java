@@ -16,7 +16,6 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 
 @RunWith(AndroidJUnit4.class)
 public class MainActivityTest {
-    // Test
     @Rule
     public ActivityScenarioRule activityTestRule = new ActivityScenarioRule(MainActivity.class);
 
